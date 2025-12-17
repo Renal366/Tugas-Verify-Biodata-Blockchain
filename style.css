@@ -1,0 +1,252 @@
+body {
+font-family: "Segoe UI", Arial, sans-serif;
+background: #f4f6f8;
+margin: 0;
+padding: 0;
+}
+
+.container {
+max-width: 600px;
+margin: 60px auto;
+background: #fff;
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+h1 {
+text-align: center;
+color: #0d47a1;
+}
+
+.subtitle {
+text-align: center;
+color: #555;
+margin-bottom: 30px;
+}
+
+input[type=file] {
+width: 100%;
+padding: 10px;
+border: 2px dashed #bbb;
+border-radius: 6px;
+margin-bottom: 20px;
+}
+
+button {
+width: 100%;
+padding: 12px;
+background: #0d47a1;
+border: none;
+color: #fff;
+font-size: 16px;
+border-radius: 6px;
+cursor: pointer;
+}
+
+button:hover {
+background: #08306b;
+}
+
+.result {
+margin-top: 25px;
+padding: 15px;
+border-radius: 6px;
+font-size: 15px;
+}
+
+.success {
+background: #e8f5e9;
+color: #1b5e20;
+}
+
+.error {
+background: #ffebee;
+color: #b71c1c;
+}
+
+.hash-box {
+background: #f1f1f1;
+padding: 10px;
+font-family: monospace;
+font-size: 13px;
+border-radius: 4px;
+word-break: break-all;
+}
+
+.footer {
+text-align: center;
+margin-top: 40px;
+color: #777;
+font-size: 13px;
+}
+
+.biodata-form {
+margin-bottom: 30px;
+}
+
+.form-group {
+margin-bottom: 15px;
+}
+
+.form-group label {
+display: block;
+margin-bottom: 5px;
+font-weight: bold;
+color: #0d47a1;
+}
+
+.form-group input,
+.form-group textarea {
+width: 100%;
+padding: 10px;
+border: 1px solid #bbb;
+border-radius: 5px;
+font-family: Arial, sans-serif;
+font-size: 14px;
+box-sizing: border-box;
+}
+
+.form-group textarea {
+resize: vertical;
+min-height: 80px;
+}
+
+.button-group {
+display: flex;
+gap: 10px;
+}
+
+.button-group button {
+flex: 1;
+}
+
+.button-secondary {
+background: #666;
+}
+
+.button-secondary:hover {
+background: #555;
+}
+
+.biodata-display {
+background: #f9f9f9;
+padding: 20px;
+border-radius: 8px;
+border-left: 4px solid #0d47a1;
+}
+
+.biodata-item {
+margin-bottom: 12px;
+}
+
+.biodata-item strong {
+color: #0d47a1;
+}
+
+.navigation {
+text-align: center;
+margin-top: 20px;
+padding-top: 20px;
+border-top: 1px solid #ddd;
+}
+
+.navigation a {
+display: inline-block;
+margin: 0 10px;
+padding: 10px 20px;
+background: #0d47a1;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+transition: background 0.3s;
+}
+
+.navigation a:hover {
+background: #08306b;
+}
+
+.biodata-form {
+margin-bottom: 30px;
+}
+
+.form-group {
+margin-bottom: 15px;
+}
+
+.form-group label {
+display: block;
+margin-bottom: 5px;
+font-weight: bold;
+color: #0d47a1;
+}
+
+.form-group input,
+.form-group textarea {
+width: 100%;
+padding: 10px;
+border: 1px solid #bbb;
+border-radius: 5px;
+font-family: Arial, sans-serif;
+font-size: 14px;
+box-sizing: border-box;
+}
+
+.form-group textarea {
+resize: vertical;
+min-height: 80px;
+}
+
+.button-group {
+display: flex;
+gap: 10px;
+}
+
+.button-group button {
+flex: 1;
+}
+
+.button-secondary {
+background: #666;
+}
+
+.button-secondary:hover {
+background: #555;
+}
+
+.biodata-display {
+background: #f9f9f9;
+padding: 20px;
+border-radius: 8px;
+border-left: 4px solid #0d47a1;
+}
+
+.biodata-item {
+margin-bottom: 12px;
+}
+
+.biodata-item strong {
+color: #0d47a1;
+}
+
+.navigation {
+text-align: center;
+margin-top: 20px;
+padding-top: 20px;
+border-top: 1px solid #ddd;
+}
+
+.navigation a {
+display: inline-block;
+margin: 0 10px;
+padding: 10px 20px;
+background: #0d47a1;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+transition: background 0.3s;
+}
+
+.navigation a:hover {
+background: #08306b;
+}
