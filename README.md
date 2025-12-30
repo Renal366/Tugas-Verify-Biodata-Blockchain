@@ -15,6 +15,7 @@ Sistem berbasis web untuk memverifikasi keaslian dokumen menggunakan hashing SHA
 - ✅ Verifikasi keaslian dokumen
 - ✅ Interface user-friendly
 - ✅ Responsif dan mudah digunakan
+- ✅ Deteks Lokasi 
 
 ## 🚀 Quick Start
 
